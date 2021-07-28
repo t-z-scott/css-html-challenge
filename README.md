@@ -1,2 +1,2 @@
 # css-html-challenge
-I further my understanding of CSS and HTML5 in the month I have left before returning to college!
+I did this to see if I wanted to be a web developer and to push myself... but mostly, I did it for fun.
