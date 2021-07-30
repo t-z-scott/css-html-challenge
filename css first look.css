@@ -1,0 +1,13 @@
+h1 {
+  font-family: arial;
+  color: purple;
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  color: green;
+  font-size: 28px;
+  font-family: georgia ms;
+  text-align: justify;
+}
